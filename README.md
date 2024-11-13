@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus Trindade! 🖐🏼
+//Olá! Eu sou o Matheus Trindade! 🖐🏼
 
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusTRR97)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_trr/)
@@ -7,7 +7,7 @@
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusTRR97&show_icons=true&theme=dracula)
 
 
-## Tecnologias Ultilizadas
+## Tec's
 
 
 <div style="display: inline_block"><br/>
